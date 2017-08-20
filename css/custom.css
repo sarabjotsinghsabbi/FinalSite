@@ -342,6 +342,9 @@ footer a, footer ul span {
 #services h1 {text-align: center; color: #5573ab; position: relative;  top: -15px;}
 #services p { text-align: justify; font-size: 17px; color: #777;}
 @media only screen and (min-device-width :260px) and (max-device-width : 480px) {
+	html, body {
+  overflow-x: hidden;
+}
 .container-fluid{padding-left:15px; padding-right:15px; overflow:visible;}
 .jumbotron{padding: 20px 0 0 0 !important;}
 .jumbotron .row> div:first-of-type img	{float:none; display:block; margin:auto;}
