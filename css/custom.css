@@ -374,7 +374,7 @@ footer a, footer ul span {
 #about-us img{margin-bottom: 20px;}
 #about-us p { font-size: 15px;}
 footer li{font-size: 12px;}
-footer .col-xs-6{padding-left: 0; padding-right: 0;}
+footer .col-xs-6{padding-left: 0; padding-right: 0; min-height: 150px;}
 footer p {font-size: 16px;}
 .page-nav__link	{text-align: center;}
 .is-highlighted{background: #235293; color: white !important; }
