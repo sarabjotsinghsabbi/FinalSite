@@ -367,7 +367,8 @@ footer a, footer ul span {
 .product:before{margin-top:-15px;}
 .product__title,.product__slogan{text-align:center;}
 .product__card {height:225px;}
-
+#products-mob a{width: 243px;}
+#brDiv, #srBrDiv, #ctrDiv, #splDiv{padding-left:0;}
 .shaktiman-nav-dont-show { height: 0px; bottom: 40px;}
 #about-us h1 {top:-30px;}
 #about-us img{margin-bottom: 20px;}
@@ -391,9 +392,6 @@ footer p {font-size: 16px;}
 
 @media only screen and (min-width: 768px) {
    .container .jumbotron, .container-fluid .jumbotron{ padding-right: 0; padding-left: 0;}
-	html, body {
-  overflow-x: hidden;
-}
    #title{display: block; text-align: right;}
 	.navbar-collapse{padding-right:0; padding-left:0;}
 	.nav>li>a{padding: 10px 4px 38px 4px;}
