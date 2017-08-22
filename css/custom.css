@@ -387,6 +387,11 @@ footer p {font-size: 16px;}
 #services h1{top: 0;}
 }
 
+@media only screen and (min-device-width :320px) and (max-device-width : 322px){
+#products-mob a{width: 250px;}	
+	
+}
+
 @media only screen and (max-width: 768px) {
 	margin: 0 27%;
 }
