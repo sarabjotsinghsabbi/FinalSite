@@ -367,7 +367,8 @@ footer a, footer ul span {
 .product:before{margin-top:-15px;}
 .product__title,.product__slogan{text-align:center;}
 .product__card {height:225px;}
-#products-mob a{width: 243px;}
+#products-mob{padding-left: 20px;}
+#products-mob a{width: 257px;}
 #brDiv, #srBrDiv, #ctrDiv, #splDiv{padding-left:0;}
 .shaktiman-nav-dont-show { height: 0px; bottom: 40px;}
 #about-us h1 {top:-30px;}
