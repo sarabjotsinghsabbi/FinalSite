@@ -417,7 +417,7 @@ footer p {font-size: 16px;}
 	#tanda{ padding-left: 30px;}
 	#socialLinks{ margin-left: -10px;}
 	#logoImage{margin-left:7px;}
-	#about-us img {float: left; margin-top: 10px;}
+	#about-us img {float: left;}
 	.popover{
     max-width: 40%; /* Max Width of the popover (depending on the container!) */
 }
